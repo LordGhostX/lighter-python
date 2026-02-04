@@ -10,12 +10,12 @@ Name | Type | Description | Notes
 **h** | **float** |  high | 
 **l** | **float** |  low | 
 **c** | **float** |  close | 
-**o** | **float** |  open_raw | 
-**h** | **float** |  high_raw | 
-**l** | **float** |  low_raw | 
-**c** | **float** |  close_raw | 
+**O** | **float** |  open_raw | 
+**H** | **float** |  high_raw | 
+**L** | **float** |  low_raw | 
+**C** | **float** |  close_raw | 
 **v** | **float** |  volume0 | 
-**v** | **float** |  volume1 | 
+**V** | **float** |  volume1 | 
 **i** | **int** |  last_trade_id | 
 
 ## Example
